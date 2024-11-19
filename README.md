@@ -7,5 +7,5 @@ Requesting Data
 Write a message to the output.txt file indicating an operation
 
 Receiving Data
-The microservice will respond by writing the results of the login or account creation process to output.txt.
+The microservice will respond by writing the login or account creation process results to output.txt.
 
